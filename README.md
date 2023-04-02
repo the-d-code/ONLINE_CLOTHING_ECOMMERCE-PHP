@@ -68,8 +68,6 @@ INTRODUCTION
  	Project Profile
 
 
-
-Project Title	Kaira Beauty
 Front End	          HTML, CSS, JavaScript, jQuery,Bootstrap
 Back End            PHP, MySQL
 	
